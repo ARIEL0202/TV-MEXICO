@@ -9,6 +9,9 @@ http://tvpremiumhd.club/lista-gratuita/221818/on/lives.php?id=aztkhlslive3-i.aka
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",TV MAS
 http://tvpremiumhd.club/lista-gratuita/221818/on/lives.php?id=5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",MX: TELEVER
+https://www.youtube.com/watch?v=exh0qfFQk3U
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: MILENIO TV
 http://tvpremiumhd.club/lista-gratuita/221818/on/live.php?id=bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
@@ -27,9 +30,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION USA HD" tvg-logo="" group-title="",UNIVISION USA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
 
-#EXTINF:-1 tvg-id="" tvg-name="NUEVE 9" tvg-logo="" group-title="",NUEVE 9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
-
 #EXTINF:-1 tvg-id="" tvg-name="UNIMAS HD" tvg-logo="" group-title="",UNIMAS HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
 
@@ -37,10 +37,16 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
 
 #EXTINF:-1 tvg-id="" tvg-name="IMAGEN NOTICIAS SD" tvg-logo="" group-title="",IMAGEN NOTICIAS SD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
+https://www.youtube.com/watch?v=bOgyK8iYDw0
+
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",MX: TELEFORMULA
+https://www.youtube.com/watch?v=gxHV8NpL2J0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: MUNDO MAS
 http://tvpremiumhd.club/lista-gratuita/221818/on/live.php?id=vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MEXICO",MX: TELEVER
-https://www.youtube.com/watch?v=exh0qfFQk3U
+#EXTINF:-1 tvg-id="" tvg-name="NUEVE 9" tvg-logo="" group-title="",NUEVE 9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+
+
+
