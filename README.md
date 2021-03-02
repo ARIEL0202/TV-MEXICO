@@ -1,5 +1,8 @@
 # TV-MEXICO
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MEXICO",Azteca Uno (Opt-2)
+https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="MEXICO",MX: Canal Once Nacional
 http://tvpremiumhd.club/lista-gratuita/221818/on/live.php?id=live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
