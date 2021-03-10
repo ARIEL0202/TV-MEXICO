@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MEXICO",Azteca Uno (Opt-2)
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
+#EXTINF:-1,Canal De Las Estrellas 
+http://ipflix.click:8080/Ester/s9mdb4ez9y/21336
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: ONCE TV
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
@@ -23,6 +26,9 @@ https://www.youtube.com/watch?v=gxHV8NpL2J0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: MUNDO MAS
 http://tvpremiumhd.club/lista-gratuita/221818/on/live.php?id=vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1,Cine Latino 
+http://ipflix.click:8080/Ester/s9mdb4ez9y/21333
 
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO44" tvg-logo="" group-title="",TELEMUNDO44
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
