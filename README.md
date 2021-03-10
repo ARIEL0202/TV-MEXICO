@@ -3,8 +3,17 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MEXICO",Azteca Uno (Opt-2)
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
+#EXTINF:-1,Azteca 13 MX
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6682
+
 #EXTINF:-1,Canal De Las Estrellas 
 http://ipflix.click:8080/Ester/s9mdb4ez9y/21336
+
+#EXTINF:-1,Azteca Noticias LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8743
+
+#EXTINF:-1,Azteca Honduras LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8744
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: ONCE TV
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
@@ -63,11 +72,18 @@ https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSO" tvg-logo="" group-title="",UNIVERSO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
 
+#EXTINF:-1,TeleFormula FHD LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6745
+
+#EXTINF:-1,Telemundo HD LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/16982
+
 #EXTINF:-1 tvg-id="" tvg-name="NUEVE 9" tvg-logo="" group-title="",NUEVE 9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
 
 #EXTINF:-1 tvg-id="90570" tvg-name="TV Salud" tvg-logo="https://lh3.googleusercontent.com/-Xv_aL34GjFE/XdksOdTnS9I/AAAAAAAAsTs/_WBt4UNy428CuU5dtVeJQZzh4EpQREnDwCK8BGAsYHg/s0/2019-11-23.png", TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1,Multimedios MX
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6733
 
