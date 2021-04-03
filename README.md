@@ -21,14 +21,8 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pEj3hCA.png" group-title="MEXICO",ADN 40
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO",Milenio TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MEXICO",RTV Tv Mas
-http://conceptoweb-studio.com/radio/video/rtv/minisitio/tvstream.php
-
-#EXTINF:-1 tvg-id="" tvg-name="IMAGEN NOTICIAS SD" tvg-logo="" group-title="",IMAGEN NOTICIAS SD
-https://www.youtube.com/watch?v=bOgyK8iYDw0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",TV MAS
+http://tvpremiumhd.club/lista-gratuita/183402/on/lives.php?id=5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",MX: TELEFORMULA
 https://www.youtube.com/watch?v=gxHV8NpL2J0
