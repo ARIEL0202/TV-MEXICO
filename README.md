@@ -3,23 +3,8 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MEXICO",Azteca Uno (Opt-2)
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
-#EXTINF:-1,Azteca 13 MX
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6682
-
-#EXTINF:-1,Canal De Las Estrellas 
-http://ipflix.click:8080/Ester/s9mdb4ez9y/21336
-
-#EXTINF:-1,Azteca Noticias LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8743
-
 #EXTINF:-1,Azteca Honduras LAM
 http://ipflix.click:8080/Ester/s9mdb4ez9y/8744
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: ONCE TV
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pEj3hCA.png" group-title="MEXICO",ADN 40
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",TV MAS
 http://tvpremiumhd.club/lista-gratuita/183402/on/lives.php?id=5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
