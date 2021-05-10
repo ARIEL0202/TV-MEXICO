@@ -1,4 +1,5 @@
-# TV-MEXICO
+#EXTINF:-1 tvg-id="140531" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="06 - MEXICO", CANAL DE LAS ESTRELLAS
+http://138.117.71.80:25461/test/test/218?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MEXICO",Azteca Uno (Opt-2)
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
