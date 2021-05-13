@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-id="138227" tvg-name="HOLA TV " tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="00 - Argentina", HOLA TV 
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="140531" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="06 - MEXICO", CANAL DE LAS ESTRELLAS
 http://138.117.71.80:25461/test/test/218?PlaylistM3UCL
 
