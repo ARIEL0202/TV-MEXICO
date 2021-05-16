@@ -28,16 +28,11 @@ https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,TeleFormula FHD LAM
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6745
 
-#EXTINF:-1,Telemundo HD LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/16982
-
 #EXTINF:-1,Multimedios MX
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6733
 
 #EXTINF:-1 tvg-id="excelsiortv.mx" tvg-name="EXCELSIOR" tvg-logo="http://i.imgur.com/Ea8Ibfk.jpg" group-title="MEXICO",EXCELSIOR
 http://216.244.65.74:8080/Piolin/1234/23
-#EXTINF:-1 tvg-id="univision.us" tvg-name="UNIVISION VEGAS" tvg-logo="http://i.imgur.com/FHrSsEN.jpg" group-title="USA CHANNELS",UNIVISION VEGAS
-http://216.244.65.74:8080/Piolin/1234/25
 #EXTINF:-1 tvg-id="univision.us" tvg-name="UNIVISION NEW YORK" tvg-logo="http://i.imgur.com/FHrSsEN.jpg" group-title="USA CHANNELS",UNIVISION NEW YORK
 http://216.244.65.74:8080/Piolin/1234/2
 #EXTINF:-1 tvg-id="360north.us" tvg-name="UNIMAS LOS ANGELES" tvg-logo="http://i.imgur.com/F2sQVmN.png" group-title="USA CHANNELS",UNIMAS LOS ANGELES
@@ -52,6 +47,5 @@ http://216.244.65.74:8080/Piolin/1234/90
 http://216.244.65.74:8080/Piolin/1234/112
 #EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="AZTECA CORAZON" tvg-logo="http://i.imgur.com/wc85qtW.png" group-title="ENTERTAINMENT",AZTECA CORAZON
 http://216.244.65.74:8080/Piolin/1234/113
-#EXTINF:-1 tvg-id="" tvg-name="VEPLUSTV" tvg-logo="http://i.imgur.com/B7APUeh.png" group-title="INTERNACIONALES",VEPLUSTV
-http://216.244.65.74:8080/Piolin/1234/115
+
 
