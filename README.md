@@ -47,5 +47,9 @@ http://216.244.65.74:8080/Piolin/1234/90
 http://216.244.65.74:8080/Piolin/1234/112
 #EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="AZTECA CORAZON" tvg-logo="http://i.imgur.com/wc85qtW.png" group-title="ENTERTAINMENT",AZTECA CORAZON
 http://216.244.65.74:8080/Piolin/1234/113
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="http://i.imgur.com/SUpKKNv.jpg" group-title="COLOMBIA",RCN NOVELAS
+http://216.244.65.74:8080/Piolin/1234/119
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOTICIAS" tvg-logo="http://i.imgur.com/Ta68LmR.png" group-title="COLOMBIA",RCN NOTICIAS
+http://216.244.65.74:8080/Piolin/1234/120
 
 
