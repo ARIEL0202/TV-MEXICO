@@ -13,6 +13,9 @@ https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?Pl
 #EXTINF:-1 tvg-id="103350" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="138550" tvg-name="Mundo + " tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="00 - Argentina", Mundo + 
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo HD LAM" tvg-logo="" group-title="Latin America",Telemundo HD LAM
 http://ipflix.click:8080/h602/rflx42k17c/16982
 #EXTINF:-1 tvg-id="" tvg-name="Unimas West HD LA" tvg-logo="" group-title="Latin America",Unimas West HD LA
