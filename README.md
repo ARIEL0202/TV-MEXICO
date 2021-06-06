@@ -34,3 +34,4 @@ http://ipflix.click:8080/h602/rflx42k17c/6686
 http://ipflix.click:8080/h602/rflx42k17c/6745
 #EXTINF:-1 tvg-id="" tvg-name="Azmundo HD " tvg-logo="http://pici.life/CO/Azmundo.png" group-title="Colombia",Azmundo HD 
 http://ipflix.click:8080/h602/rflx42k17c/21344
+
