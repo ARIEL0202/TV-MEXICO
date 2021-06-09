@@ -4,9 +4,6 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="138175" tvg-name="ADN MÉXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" group-title="00 - Argentina", ADN MÉXICO
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="117670" tvg-name="Chic Magazine" tvg-logo="https://lh3.googleusercontent.com/-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png", Chic Magazine
-https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="110679" tvg-name="El Chavo TV" tvg-logo="https://lh3.googleusercontent.com/-5eP6g5sX97U/X0lgCjh-dmI/AAAAAAAA5CQ/VWuz7CEH4Lswd2SPPB9U9RjbmbtMcuP4wCK8BGAsYHg/s0/2020-08-28.png", El Chavo TV
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
 
@@ -43,3 +40,12 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 
 #EXTINF:-152 tvg-logo="https://i.postimg.cc/5yK43XBF/fashiontv.png" group-title="ESTILO DE VIDA", FASHION TV NEW YORK
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/chunklist_b2878000_t64RGVmYXVsdA==.m3u8
+
+#EXTINF:-1 tvg-id="117670" tvg-name="Chic Magazine" tvg-logo="https://lh3.googleusercontent.com/-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png", Chic Magazine
+https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="FRANCE",Fashion TV (Opt-1) http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
+#EXTINF:-1,MODA:HD Fashion http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="MODA",FTV Midnight Secret https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
