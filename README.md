@@ -49,3 +49,64 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,MODA:HD Fashion http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="MODA",FTV Midnight Secret https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eGvLDVR.png" group-title="Canales Mexicanos", Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/A9kTYN8.png" group-title="Canales Mexicanos", Multimedios Monterrey | HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/A9kTYN8.png" group-title="Canales Mexicanos", Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="Canales Mexicanos", Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dFQBOLD.png" group-title="Canales Mexicanos", Canal Once IPN | HD
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DpN7K62.png" group-title="Canales Mexicanos", Canal del Congreso | SD
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hxpSI0R.png" group-title="Canales Mexicanos", RCG 2 | SD
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LEBQ8B5.png" group-title="Canales Mexicanos", RCG 3 | SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Canal 4 Saltillo
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Canal 10 Cancun (Opt-1)
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Canal Once Nacional
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO",MVM Noticias Oaxaca
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="MEXICO",RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Telemax Hermosillo
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Transmedia TV Morelia
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200" group-title="Int. América" tvg-name="Azteca 7 Mexico",Azteca 7 Mexico
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal 6 Multimedios Mexico",Canal 6 Multimedios Mexico
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200" group-title="Int. América" tvg-name="Televisa Noticiero Mexico",Televisa Noticiero Mexico
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="Int. América" tvg-name="ADN40 Mexico",ADN40 Mexico
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal 11 Mexico",Canal 11 Mexico
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
