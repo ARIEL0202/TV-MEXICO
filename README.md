@@ -1,8 +1,22 @@
-#EXTINF:-1 tvg-id="138227" tvg-name="HOLA TV " tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="00 - Argentina", HOLA TV 
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200" group-title="Int. América" tvg-name="Azteca 7 Mexico",Azteca 7 Mexico
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200" group-title="Int. América" tvg-name="Televisa Noticiero Mexico",Foro TV
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 
 #EXTINF:-1 tvg-id="138175" tvg-name="ADN MÉXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" group-title="00 - Argentina", ADN MÉXICO
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal 11 Mexico",Canal 11 Mexico
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DpN7K62.png" group-title="Canales Mexicanos", Canal del Congreso | SD
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD LAM" tvg-logo="" group-title="Latin America",Telemundo HD LAM
+http://ipflix.click:8080/h602/rflx42k17c/16982
+#EXTINF:-1 tvg-id="" tvg-name="Unimas West HD LA" tvg-logo="" group-title="Latin America",Unimas West HD LA
+http://ipflix.click:8080/h602/rflx42k17c/637344
 
 #EXTINF:-1 tvg-id="110679" tvg-name="El Chavo TV" tvg-logo="https://lh3.googleusercontent.com/-5eP6g5sX97U/X0lgCjh-dmI/AAAAAAAA5CQ/VWuz7CEH4Lswd2SPPB9U9RjbmbtMcuP4wCK8BGAsYHg/s0/2020-08-28.png", El Chavo TV
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
@@ -13,24 +27,8 @@ https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="138550" tvg-name="Mundo + " tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="00 - Argentina", Mundo + 
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD LAM" tvg-logo="" group-title="Latin America",Telemundo HD LAM
-http://ipflix.click:8080/h602/rflx42k17c/16982
-#EXTINF:-1 tvg-id="" tvg-name="Unimas West HD LA" tvg-logo="" group-title="Latin America",Unimas West HD LA
-http://ipflix.click:8080/h602/rflx42k17c/637344
-#EXTINF:-1 tvg-id="forotv.mx" tvg-name="Foro TV MX" tvg-logo="http://pici.life/Latin%20America%20(LAM)/forotvlam.png" group-title="Latin America",Foro TV MX
-http://ipflix.click:8080/h602/rflx42k17c/6713
-#EXTINF:-1 tvg-id="" tvg-name="Glitz LAM" tvg-logo="http://pici.life/glitzlam.png" group-title="Latin America",Glitz LAM
-http://ipflix.click:8080/h602/rflx42k17c/6669
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 MX" tvg-logo="http://pici.life/Latin%20America%20(LAM)/Multimedios.png" group-title="Latin America",Canal 6 MX
-http://ipflix.click:8080/h602/rflx42k17c/6733
-#EXTINF:-1 tvg-id="Proyecto40.mx" tvg-name="ADN 40 FHD MX" tvg-logo="http://pici.life/proyecto_40.png" group-title="Latin America",ADN 40 FHD MX
-http://ipflix.click:8080/h602/rflx42k17c/6738
-#EXTINF:-1 tvg-id="" tvg-name="Canal De Las Estrellas MX" tvg-logo="http://pici.life/lasestrellaslam.png" group-title="Latin America",Canal De Las Estrellas MX
-http://ipflix.click:8080/h602/rflx42k17c/6686
-#EXTINF:-1 tvg-id="" tvg-name="TeleFormula FHD LAM" tvg-logo="http://pici.life/Latin%20America%20(LAM)/teleformula.jpg" group-title="Latin America",TeleFormula FHD LAM
-http://ipflix.click:8080/h602/rflx42k17c/6745
-#EXTINF:-1 tvg-id="" tvg-name="Azmundo HD " tvg-logo="http://pici.life/CO/Azmundo.png" group-title="Colombia",Azmundo HD 
-http://ipflix.click:8080/h602/rflx42k17c/21344
+#EXTINF:-1 tvg-id="138227" tvg-name="HOLA TV " tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="00 - Argentina", HOLA TV 
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3UCL
 
 #EXTINF:-152 tvg-logo="https://i.postimg.cc/RZ6x4Kmr/FASHIONBOOX.png" group-title="ESTILO DE VIDA", FASHIONBOX
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a64-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcad69d9-cbe2-4e00-a9bc-3c865cdc4424&userId=&serverSideAds=true
@@ -53,6 +51,9 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eGvLDVR.png" group-title="Canales Mexicanos", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal 6 Multimedios Mexico",Canal 6 Multimedios Mexico
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A9kTYN8.png" group-title="Canales Mexicanos", Multimedios Monterrey | HD
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
@@ -62,26 +63,11 @@ http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="Canales Mexicanos", Teleritmo | SD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dFQBOLD.png" group-title="Canales Mexicanos", Canal Once IPN | HD
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DpN7K62.png" group-title="Canales Mexicanos", Canal del Congreso | SD
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hxpSI0R.png" group-title="Canales Mexicanos", RCG 2 | SD
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LEBQ8B5.png" group-title="Canales Mexicanos", RCG 3 | SD
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-
 #EXTINF:-1 group-title="MEXICO",Canal 4 Saltillo
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
-#EXTINF:-1 group-title="MEXICO",Canal 10 Cancun (Opt-1)
+#EXTINF:-1 group-title="MEXICO",Canal 10 Cancun 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-#EXTINF:-1 group-title="MEXICO",Canal Once Nacional
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="MEXICO",MVM Noticias Oaxaca
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
@@ -95,18 +81,8 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1 group-title="MEXICO",Transmedia TV Morelia
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200" group-title="Int. América" tvg-name="Azteca 7 Mexico",Azteca 7 Mexico
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal 6 Multimedios Mexico",Canal 6 Multimedios Mexico
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200" group-title="Int. América" tvg-name="Televisa Noticiero Mexico",Televisa Noticiero Mexico
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="Int. América" tvg-name="ADN40 Mexico",ADN40 Mexico
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal 11 Mexico",Canal 11 Mexico
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal Once Nacional
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
