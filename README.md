@@ -35,7 +35,7 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3
 
 #EXTINF:-152 tvg-logo="https://i.postimg.cc/RZ6x4Kmr/FASHIONBOOX.png" group-title="ESTILO DE VIDA", FASHIONBOX
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a64-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcad69d9-cbe2-4e00-a9bc-3c865cdc4424&userId=&serverSideAds=true
-
+   
 #EXTINF:-152 tvg-logo="https://i.postimg.cc/5yK43XBF/fashiontv.png" group-title="ESTILO DE VIDA", FASHION TV PARIS
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 
