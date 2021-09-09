@@ -13,6 +13,9 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES",Grupo Formula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
  
+#EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_usk3hzv4/def_height/1654/def_width/3159/version/100011/type/2/q/100" group-title="CINE Y SERIES", NUESTRA VISION
+https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
+ 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DpN7K62.png" group-title="Canales Mexicanos", Canal del Congreso | SD
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
