@@ -10,6 +10,9 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="",TVMÁS (XHGV-TDT) (360p)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200" group-title="Int. América" tvg-name="Azteca 7 Mexico",Azteca 7 Mexico
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
