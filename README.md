@@ -31,6 +31,25 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES",Grupo Formula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
  
+#EXTINF: -1 group-title = "Noticias" tvg-logo = "https://innovatv.live/posters/1602323352239.png", EXCELSIOR-
+http://51.79.18.128:8081/LATINO%7CEXCELSIOR/LATINO%7CEXCELSIOR/playlist.m3u8
+#EXTINF: -1 group-title = "Noticias" tvg-logo = "https://innovatv.live/posters/1602323431162.png", FOROTV
+http://51.79.18.128:8081/LATINO%7CFOROTV/LATINO%7CFOROTV/playlist.m3u8
+#EXTINF: -1 group-title = "Noticias" tvg-logo = "https://innovatv.live/posters/1602343838438.jpg", IMAGENTV
+http://51.79.18.128:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8
+#EXTINF: -1 group-title = "Noticias" tvg-logo = "https://innovatv.live/posters/1621654602131.png", IMAGENTV-SD
+http://54.39.48.63:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8
+#EXTINF: -1 group-title = "Noticias" tvg-logo = "https://innovatv.live/posters/1602345663173.jpg", TELEFORMULA
+http://51.79.18.128:8081/LATINO%7CTELEFORMULA/LATINO%7CTELEFORMULA/playlist.m3u8
+#EXTINF: -1 group-title = "Noticias" tvg-logo = "https://innovatv.live/posters/1602473447284.png", MILENIO-NOTICIAS
+http://51.79.18.128:8081/LATINO%7CMILENIONOTICIAS/LATINO%7CMILENIONOTICIAS/playlist.m3u8
+#EXTINF: -1 group-title = "Entretenimiento" tvg-logo = "https://innovatv.live/posters/1602473013180.png", COMEDY-CENTRAL
+http://51.79.18.128:8081/LATINO%7CCOMEDYCENTRAL/LATINO%7CCOMEDYCENTRAL/playlist.m3u8
+#EXTINF: -1 group-title = "Entretenimiento" tvg-logo = "https://innovatv.live/posters/1602425904373.png", DISTRITO-COMEDIA
+http://51.79.18.128:8081/LATINO%7CDISTRITOCOMEDIA/LATINO%7CDISTRITOCOMEDIA/playlist.m3u8
+#EXTINF: -1 group-title = "Entretenimiento" tvg-logo = "https://innovatv.live/posters/1602323247544.gif", ENTERTAIMENT
+http://51.79.18.128:8081/LATINO%7CENTERTAIMENT/LATINO%7CENTERTAIMENT/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
  
@@ -240,3 +259,8 @@ http://54.39.49.162:8081/UNIVISIONLASVEGAS/USA%7CUNIVISIONLASVEGAS/playlist.m3u8
 
 #EXTINF: -1 group-title = "Latinos Usa" tvg-logo = "https://innovatv.live/posters/1607318573465.png", UNIVISION-SAN-FRANCISCO
 http://54.39.49.162:8081/UNIVISIONSANFRAN/USA%7CUNIVISIONSANFRAN/playlist.m3u8
+
+#EXTINF:-1,CANAL 10 MX
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,CANAL 6 MX
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
