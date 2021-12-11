@@ -30,7 +30,7 @@ http://51.79.18.128:8081/LATINO%7CCANALDELASESTRELLAS/LATINO%7CCANALDELASESTRELL
 #EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602471964224.png", ONCETV
 http://51.79.18.128:8081/LATINO%7CONCETV/LATINO%7CONCETV/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="INTERNACIONAL",MVS TV MEXICO https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 #EXTINF: -1 group-title = "Noticias" tvg-logo = "https://innovatv.live/posters/1602323352239.png", EXCELSIOR-
 http://51.79.18.128:8081/LATINO%7CEXCELSIOR/LATINO%7CEXCELSIOR/playlist.m3u8
 #EXTINF: -1 group-title = "Noticias" tvg-logo = "https://innovatv.live/posters/1602323431162.png", FOROTV
