@@ -94,3 +94,51 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20ac" tvg-id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20ac" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/POPSUGARFitness_logo_dark.png" group-title="USA",POPSUGAR Fitness
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00594-groupninemediai-popsugar-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=L5nSDEMpYfzaGH16TF7X&channelId=605a309dc5acdc002c7a20ac
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PELIS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="SPANISH",Vacaciones en Acapulco (1977)
+https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+
+#EXTINF:-1 tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/28971_la-presidenta-municipal.jpg" group-title="SPANISH",La Presidenta Municipal (1975)
+https://ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dM4R0r1.jpg" group-title="SPANISH",El Libro de Piedra (1969)
+https://ia801507.us.archive.org/16/items/ElLibroDePiedra/el%20libro%20de%20piedra.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kpaLtXk.jpg" group-title="SPANISH",Caperucita y Pulgarcito Contra los Monstruos (1960)
+https://ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/fc/El_dolor_de_pagar_la_renta.jpg/200px-El_dolor_de_pagar_la_renta.jpg" group-title="SPANISH",El Dolor de Pagar la Renta (1960)
+https://ia801501.us.archive.org/0/items/CAPULINAELDOLORDEPAGARLARENTA/CAPULINA%20EL%20DOLOR%20DE%20%20PAGAR%20LA%20RENTA.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/U9RiSMD.jpg" group-title="SPANISH",Macario (1960)
+https://ia801503.us.archive.org/17/items/tecnotv_201709/Macario.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/angelitos_del_trapecio-167118603-mmed.jpg" group-title="SPANISH",Angelitos del Trapecio (1959)
+https://ia801508.us.archive.org/29/items/AngelitosDeTrapecio/Angelitos%20de%20trapecio.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/e4BzmDB.jpg" group-title="SPANISH",Yo Soy Muy Macho (1953)
+https://ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo%20Soy%20Muy%20Macho%20-%20Silvia%20Pinal.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/gVCnp2P.jpg" group-title="SPANISH",El Bello Durmiente (1952)
+https://ia801504.us.archive.org/10/items/TinTanElBelloDurmiente/Tin%20Tan%2C%20El%20Bello%20Durmiente.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OOGQjcp.jpg" group-title="SPANISH",Simbad el Mareado (1950)
+https://ia801502.us.archive.org/1/items/SimbadElMareado/Simbad%20el%20mareado.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lzZMzXw.jpg" group-title="SPANISH",La Familia Perez (1949)
+https://ia801507.us.archive.org/20/items/LaFamiliaPerez_201709/La%20familia%20Perez.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JzyYqis.jpg" group-title="SPANISH",Los Tres Huastecos (1948)
+https://ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/aOy8B0T.jpg" group-title="SPANISH",Nosotros - los Pobres (1948)
+https://ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros%20los%20pobres.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9ZOU6Hq.jpg" group-title="SPANISH",Si Adelita se Fuera con Otro (1948)
+https://ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si%20Adelita%20Se%20Fuera%20Con%20Otro.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3S8RST5.jpg" group-title="SPANISH",Ustedes - los Ricos (1948)
+https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4
