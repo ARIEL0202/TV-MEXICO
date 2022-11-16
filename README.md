@@ -2,8 +2,6 @@
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201505.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ES: Kim Possible " tvg-logo="https://image.tmdb.org/t/p/original/t37Xa74GFO1R3kebocqSV4hFrPO.jpg" group-title="VOD Spain",ES: Kim Possible 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ES: La Gran Aventura LEGO 2 " tvg-logo="https://image.tmdb.org/t/p/original/pOMqelYclqbnj4f7mL5KgSN5rJj.jpg" group-title="VOD Spain",ES: La Gran Aventura LEGO 2 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201503.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ES: La Verdad Sobre Mi Madre " tvg-logo="https://image.tmdb.org/t/p/original/ctFma37txemeTJBRDNvrVzfKhxo.jpg" group-title="VOD Spain",ES: La Verdad Sobre Mi Madre 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201502.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ES: La Voz De La Igualdad " tvg-logo="https://image.tmdb.org/t/p/original/izY9Le3QWtu7xkHq7bjJnuE5yGI.jpg" group-title="VOD Spain",ES: La Voz De La Igualdad 
@@ -14,8 +12,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201500.mp4
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201499.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ES: McLaren " tvg-logo="https://image.tmdb.org/t/p/original/yRWIvyWNgsuPSHEVIMbS9aDY280.jpg" group-title="VOD Spain",ES: McLaren 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ES: Miss Bala " tvg-logo="https://image.tmdb.org/t/p/original/z5Vy2ZI38NxRUxZSOw0rdwuH2QA.jpg" group-title="VOD Spain",ES: Miss Bala 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201497.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ES: Mowgli- La Leyenda De La Selva " tvg-logo="https://image.tmdb.org/t/p/original/yJ12iCaZqbr7683NYI3Nyav6C7g.jpg" group-title="VOD Spain",ES: Mowgli- La Leyenda De La Selva 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201496.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ES: Nacidos En China " tvg-logo="https://image.tmdb.org/t/p/original/36KxNR4MfoWGGZKwObSmQF54JbZ.jpg" group-title="VOD Spain",ES: Nacidos En China 
@@ -39,8 +35,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201487.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ES: The Hole In The Ground " tvg-logo="https://image.tmdb.org/t/p/original/jXHC3pcDQ3pGjAwPAIqF1nTVfPl.jpg" group-title="VOD Spain",ES: The Hole In The Ground 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201486.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: I Love Dogs " tvg-logo="" group-title="VOD Spain",ES: I Love Dogs 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201506.mp4
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
