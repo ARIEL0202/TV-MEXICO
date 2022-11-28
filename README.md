@@ -141,4 +141,4 @@ https://ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros%20los%20pobr
 https://ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si%20Adelita%20Se%20Fuera%20Con%20Otro.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3S8RST5.jpg" group-title="SPANISH",Ustedes - los Ricos (1948)
-https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4
+https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4    
